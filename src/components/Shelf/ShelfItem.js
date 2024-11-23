@@ -8,7 +8,7 @@ function ShelfItem({ image, title, productType, likes }) {
             <div className='shelf-Item'>
                 <div className="shelf-Thumb">
                     <div className='shelf-Item-Likes'>
-                        {likes}
+                        🤍 {likes}
                     </div>
                     <img src={image} alt={title} />
                 </div>

@@ -1,0 +1,28 @@
+{
+    "Products": [
+        {
+            "image": "https://dw9to29mmj727.cloudfront.net/products/197474924X.jpg",
+            "title": "Hirayasumi, Vol. 3",
+            "productType": "Manga",
+            "likes": "+12"
+        },
+        {
+            "image": "https://dw9to29mmj727.cloudfront.net/products/197474874X.jpg",
+            "title": "Chainsaw Man, Vol. 16",
+            "productType": "Manga",
+            "likes": "+68"
+        },
+        {
+            "image": "https://dw9to29mmj727.cloudfront.net/products/1974749703.jpg",
+            "title": "After God, Vol. 1",
+            "productType": "Manga",
+            "likes": "+27"
+        },
+        {
+            "image": "https://dw9to29mmj727.cloudfront.net/products/782009248323.jpg",
+            "title": "UZUMAKI: Animated TV Series",
+            "productType": "TV Series",
+            "likes": "+5"
+        }
+    ]
+}
