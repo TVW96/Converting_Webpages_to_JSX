@@ -1,0 +1,42 @@
+.shelf-Item-Wrapper
+    display: flex
+    flex-direction: column
+    border-radius: 5px
+    margin: 1rem
+    width: 300px
+    height: 400px
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1)
+    background: white
+        
+    .shelf-Item
+        display: flex
+        flex-direction: column
+        align-items: center
+        width: 100%
+        height: auto
+        .shelf-Thumb
+            display: flex
+            flex-direction: column
+            width: 100%
+            .shelf-Item-Likes
+                display: flex
+                justify-content: flex-start
+                width: 100%
+                padding: 0.75rem
+            img
+                object-fit: contain
+                width: auto
+                height: auto
+                max-height: 70%
+                max-width: 90%
+                border-radius: 5px
+                transition: all 0.3s ease
+                &:hover
+                    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2)
+                    transform: scale(1.05)
+        .shelf-Item-Info
+            display: flex
+            flex-direction: column
+            justify-content: space-around
+            width: 100%
+            padding: 0.75rem
